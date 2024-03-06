@@ -26,8 +26,8 @@ const Home = () => {
                 <p className='text-gray-900
                                 py-4
                                 max-w-md
-                                text-xl'>1 year experience of PHP Programmer in Point-Of-Sales (POS) and MySQL for database management. 
-                Currently, I'm expressing my interest in front-end development using frameworks or CMS to enhance individual skill set, and looking for a job opportunities in software industry.
+                                text-xl'>Graduated from Bachelor Degree of Computer Science and
+                currently I'm expressing my interest in front-end development using frameworks or CMS to enhance individual skill set in front-end development. 
                 </p>
 
                 <div>
