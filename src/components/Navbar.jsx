@@ -38,7 +38,7 @@ const Navbar = () => {
         fixed 
         text-gray-900
         bg-fuchsia-300">
-            <div name="home">
+            <div>
                 <Link to="home" smooth={true} duration={500}>
                     <img src={Logo} alt='logo' className='w-28
                                                             cursor-pointer'/>
